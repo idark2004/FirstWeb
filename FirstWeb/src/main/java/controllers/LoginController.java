@@ -14,6 +14,7 @@ import daos.UserDAO;
 /**
  * Servlet implementation class LoginController
  */
+//test
 @WebServlet("/LoginController")
 public class LoginController extends HttpServlet {
 	/**
